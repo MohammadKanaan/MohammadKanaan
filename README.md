@@ -4,11 +4,12 @@ Hi 👋 My name is Mohammad Kanaan
 Student | Web Developer
 -----------------------
 
+My social media website is live! Visit [Next Space](https://next-space-social.vercel.app)
+
 I love creating things!
 
 *   🌍  I'm based in Lebanon
 *   ✉️  You can contact me at [mohammadkanaan.me@gmail.com](mailto:mohammadkanaan.me@gmail.com)
-*   🧠  I'm learning Flutter
 
 ### Skills 
 
