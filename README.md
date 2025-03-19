@@ -5,7 +5,7 @@ About Me
 -----------------------
 I'm a motivated Computer Science undergraduate with expertise in full-stack web and mobile application development. Proficient in Typescript, React.js, Next.js, React Native, Flutter, and Laravel, with a proven track record of building production-ready applications.
 
-My social media website is live! Visit [Next Space](https://next-space-social.vercel.app)
+My social media website is live! Visit [Echo](https://social.mohammadkanaan.tech)
 
 You can contact me at [mohammadkanaan.me@gmail.com](mailto:mohammadkanaan.me@gmail.com)
 
